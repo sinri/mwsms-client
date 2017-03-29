@@ -9,6 +9,9 @@
       "email": "e.joshua.s.e@gmail.com"
     }
   ],
+  "require": {
+    "php": ">=5.4.0"
+  },
   "autoload":{
     "files":["MWSMSClient.php"]
   }

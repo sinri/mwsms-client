@@ -1,0 +1,15 @@
+{
+  "name": "sinri/mwsms-client",
+  "description": "梦网平台短信接口",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sinri Edogawa",
+      "email": "e.joshua.s.e@gmail.com"
+    }
+  ],
+  "autoload":{
+    "files":["MWSMSClient.php"]
+  }
+}
